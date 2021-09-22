@@ -10,7 +10,7 @@ https://handbrake.fr/
 
 # 2. Select correct preset
 
-Select correct preset from table below:
+Select correct preset from table below. The number in table refers to the number in preset file name.
 
 Media player | HD video | HD video + sound (stereo) | 4K video | 4K video + sound (stereo) | 
 --- | --- | --- | --- |--- |
