@@ -15,3 +15,5 @@ Select correct preset from table below:
 Media player | HD | HD + sound (stereo) | 4K | 4K + sound (stereo) | 
 --- | --- | --- | --- |--- |
 BrightSign XD3 | 0 | 0 | 0 | 0 |
+BrightSign X | 0 | 0 | 0 | 0 |
+Raspberry Pi | 0 | 0 | 0 | 0 |
