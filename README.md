@@ -1,6 +1,8 @@
-# videoExportSettings
+
 Presets for exporting video files
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+Select correct preset from table below:
+
+ | HD | HD + sound (stereo) | 4K | 4K + sound (stereo) | 
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+BrightSign XD3 | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
