@@ -18,7 +18,7 @@ Select correct preset for your media player from table below. The number in tabl
 
 Media player | HD video | HD video + sound (stereo) | 4K video | 4K video + sound (stereo) |
 --- | --- | --- | --- |--- |
-BrightSign XD3 | 0 | 0 | 0 | 0 |
+BrightSign XD3 | 0 | 0 | 0 | [4K_H265_10bit_RF15_Stereo](https://github.com/uniarts-helsinki-art-and-technology/videoExportSettings/blob/main/4K_H265_10bit_RF15_Stereo.json) |
 BrightSign X | 0 | 0 | 0 | 0 |
 Raspberry Pi [video player](https://github.com/uniarts-helsinki-art-and-technology/videoPlayer) | 0 | 0 | 0 | 0 |
 
