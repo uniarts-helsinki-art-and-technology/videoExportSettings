@@ -16,4 +16,4 @@ Media player | HD video | HD video + sound (stereo) | 4K video | 4K video + soun
 --- | --- | --- | --- |--- |
 BrightSign XD3 | 0 | 0 | 0 | 0 |
 BrightSign X | 0 | 0 | 0 | 0 |
-Raspberry Pi | 0 | 0 | 0 | 0 |
+Raspberry Pi [video player](https://github.com/uniarts-helsinki-art-and-technology/videoPlayer) | 0 | 0 | 0 | 0 |
