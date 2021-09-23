@@ -5,7 +5,7 @@ It's sometimes hard to export video in correct file format in order to meet the 
 
 # 1. Handbrake
 
-Download awesome open source video transcoder Handbrake from here:
+Download the awesome open source video transcoder Handbrake from here:
 https://handbrake.fr/
 
 # 2. Select correct preset
