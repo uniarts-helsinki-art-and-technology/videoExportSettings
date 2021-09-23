@@ -1,7 +1,7 @@
 
 # Exporting video files
 
-It's sometimes hard to export video in correct file format in order to meet the requirements of the media player. Currently we provide instruction for Handbrake but later we'll add also instructions for FFMPEG. These Handbrake presets are here to help you when preparing the file. 
+It's sometimes hard to export video in correct file format in order to meet the requirements of the media player. Currently we provide instruction for Handbrake but later we'll add also instructions for FFMPEG. These Handbrake presets are here to help you when preparing the file.
 
 ## 1. Download Handbrake
 
@@ -16,7 +16,7 @@ Click "Code" and select "Download zip" from this github page.
 
 Select correct preset for your media player from table below. The number in table refers to the number in preset file name.
 
-Media player | HD video | HD video + sound (stereo) | 4K video | 4K video + sound (stereo) | 
+Media player | HD video | HD video + sound (stereo) | 4K video | 4K video + sound (stereo) |
 --- | --- | --- | --- |--- |
 BrightSign XD3 | 0 | 0 | 0 | 0 |
 BrightSign X | 0 | 0 | 0 | 0 |
@@ -33,6 +33,4 @@ In Handbrake, select "Presets" > "Settings" > "Import" and import the selected p
 ## 4. Start encoding
 
 Select video by clicking "Open source", select correct preset from "Presets" and click start.
-
-
-
+:-)
