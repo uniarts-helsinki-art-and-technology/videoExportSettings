@@ -25,6 +25,8 @@ Raspberry Pi [video player](https://github.com/uniarts-helsinki-art-and-technolo
 # 3. Import preset to Handbrake
 
 In Handbrake, select "Presets" > "Settings" > "Import" and import the selected preset.
+
+
 ![Import preset](https://github.com/uniarts-helsinki-art-and-technology/videoExportSettings/blob/main/handbrake_preset_import.png)
 
 
